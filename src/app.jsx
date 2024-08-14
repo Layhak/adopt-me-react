@@ -1,8 +1,5 @@
 import { createRoot } from "react-dom/client";
-import Pet from "./Pet";
 import SearchParams from "./SearchParams";
-
-// delete the Pet component
 
 const App = () => {
   return (
